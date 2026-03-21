@@ -5,6 +5,7 @@ Building a modern data warehouse with SQL Server, Including ETL process, data mo
 I’m a data-driven professional with a strong interest in SQL, data analysis, and reporting. I enjoy working with data to uncover insights, improve decision-making, and solve real-world business problems.
 
 💼 What I Do
+
 Write efficient SQL queries (Joins, Window Functions, CTEs)
 Perform data analysis and generate reports
 Work with Excel (Pivot Tables, VLOOKUP, dashboards)
